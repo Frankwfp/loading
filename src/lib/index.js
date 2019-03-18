@@ -1,4 +1,4 @@
-import Loading from './Loading.vue'
+import Loading from '@/Loading.vue'
 const load = {
     install: (Vue) => {
         if(typeof window !== 'undefined' && window.Vue) {
