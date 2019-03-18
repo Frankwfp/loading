@@ -20,7 +20,6 @@
     "code",
     "loading code"
   ],
-  "license": "MIT",
   "homepage": "https://github.com/Frankwfp/loading/blob/master/README.md",
   "dependencies": {
     "vue": "^2.5.11"
