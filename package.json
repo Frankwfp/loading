@@ -1,11 +1,11 @@
 {
-  "name": "loading",
+  "name": "try_loading",
   "description": "A Vue.js project",
   "version": "1.0.0",
   "author": "Frankwfp <2579721569@qq.com>",
   "license": "MIT",
   "private": false,
-  "main": "dist/loading.min.js",
+  "main": "dist/vue-loading.min.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
